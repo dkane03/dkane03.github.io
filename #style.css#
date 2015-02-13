@@ -1,0 +1,5 @@
+
+
+.main {background-image: url("family.jpg");
+       text-align: center;
+}
